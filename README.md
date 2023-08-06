@@ -17,5 +17,6 @@ File requests should be as follows:
 <code here>
 \```
 ```
-(i cannot seem to get md to behave correctly omit that '\' that is on the last line)
+(i cannot seem to get md to behave correctly omit that '\\' that is on the last line)
+
 to run yourself gcc and mingw64 must be installed
