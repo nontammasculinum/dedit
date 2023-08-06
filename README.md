@@ -8,3 +8,13 @@ SETTINGS is a file that should be included along with the main.py when running t
 ```
 token: <token here>
 ```
+File requests should be as follows:
+```
+-n <name>
+-p <platform: must be 'windows' or 'linux'>
+-f <flags>
+\`\`\`C
+<code here>
+\`\`\`
+```
+to run yourself gcc and mingw64 must be installed
