@@ -13,8 +13,9 @@ File requests should be as follows:
 -n <name>
 -p <platform: must be 'windows' or 'linux'>
 -f <flags>
-\`\`\`C
+```C
 <code here>
-\`\`\`
+\```
 ```
+(i cannot seem to get md to behave correctly omit that '\' that is on the last line)
 to run yourself gcc and mingw64 must be installed
